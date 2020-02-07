@@ -1,0 +1,138 @@
+.view{
+    height: 97vh;
+    width: 99%;
+
+}
+
+
+.row{
+    min-height: 80vh;
+    display: flex;
+
+}
+.col-md-6{
+
+    height: 80vh;
+    width: 20%;
+    background-color: dimgray;
+    background-color: hsla(0, 0%, 13%, 0.7);
+
+
+}
+.col-md-6_1{
+    width: 20%;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+   justify-content: center;
+    margin-left: 10%;
+    margin-top: 000001%;
+}
+
+
+.form-group{
+    justify-content: center;
+    text-align: center;
+    background-color: hsla(340,100%, 97%,0.6);
+    height: 45vh;
+    width: 100%;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    margin-top: 0002%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+#name{
+    border-bottom: 2px;
+    border-bottom-style: solid;
+    border-color: chocolate;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+
+
+
+}
+#email{
+    border-bottom: 2px;
+    border-bottom-style: solid;
+    border-color: chocolate;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+
+
+
+}
+
+#message{
+    border-bottom: 2px;
+    border-bottom-style: solid;
+    border-color: chocolate;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+
+
+}
+
+.h{
+    font-size: 25px;
+    justify-content: space-between;
+    color: white;
+    text-align: center;
+
+
+}
+
+.p1{
+    font-size: 48px;
+    color: white;
+    text-align: center;
+}
+
+.p2{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+
+}
+
+#Name{
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    padding: 02px;
+
+}
+#email{
+
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    padding: 10px;
+
+}
+
+#message{
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    padding: 10px;
+
+}
+
+button{
+    background-color: chocolate;
+    color: white;
+    width: 92%;
+    height: 05vh;
+    font-size: 15px;
+    text-align: center;
+    justify-content: center;
+
+
+}
